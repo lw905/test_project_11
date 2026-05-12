@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.claude/
+.idea/
+long/
+n_pattern_results.csv
